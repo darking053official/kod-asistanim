@@ -1,1 +1,2 @@
-# kod-asistanim
+# Projenin adı: Kod Asistan v0.1
+## Projenin Hedefleri: ....
